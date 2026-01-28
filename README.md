@@ -7,6 +7,8 @@ Configuration personnelle avec zsh, Neovim (LazyVim), Kitty et Git.
 Avant d'intaller les dotfiles, assure toi d'avoir :
 
 - **Git**
+- **Zsh**
+- **Oh My Zsh**
 - **Neovim**
 - **ripgrep** (pour la recherche dans LazyVim)
 - **fd** (pour la navigation de fichiers)
